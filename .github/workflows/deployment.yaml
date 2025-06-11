@@ -2,7 +2,7 @@ name: Github Action Project
 
 on:
   push:
-    branch: [main]
+    branches: [main]
   workflow_dispatch:
 
 jobs:
@@ -11,15 +11,15 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions@checkout@v3
+        uses: actions/checkout@v3
 
       - name: Install Node
-        uses: actions@setup-node@v3
+        uses: actions/setup-node@v3
         with:
             node-version: 18
 
       - name: Install dependencies
-        run: run npm Install
+        run: npm Install
 
       - name: build project using node
         run: npm run build
