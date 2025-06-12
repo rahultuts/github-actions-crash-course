@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [HahsiCorp Vault Production Setup | Vault | DevOps](https://www.youtube.com/watch?v=rMG7XZqN0PM)
 - [40 Projects in Batch-10 |  Zero To Hero DevSecOps &amp; Cloud DevOps](https://www.youtube.com/watch?v=jD5kCBcZhSA)
 - [Service Mesh with Istio on Kubernetes | Kubernetes Live Project](https://www.youtube.com/watch?v=sTxLlFtyT_M)
 - [Ansible Corporate Project To Monitor VM &amp; Send Mail | Ansible](https://www.youtube.com/watch?v=b8QX4iUm-88)
 - [Real Time Scenario Based Linux Implementations | Linux](https://www.youtube.com/watch?v=GbORINHge0I)
-- [Real Time Scenario Based Kubernetes Implementations | Kubernetes](https://www.youtube.com/watch?v=QLbfY_Uh63c)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
