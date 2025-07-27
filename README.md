@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Day-8 | DevSecOps Mega Project Series | Jenkins Slack Notifications](https://www.youtube.com/watch?v=FeB8oObCgEE)
 - [Day-7 | DevSecOps Mega Project Series | Monitoring 3-Tier Project](https://www.youtube.com/watch?v=kLSI79_wfe8)
 - [Day-6 | DevSecOps Mega Project Series | 3-Tier Project Prod Deployment](https://www.youtube.com/watch?v=gfmbdqYa6Hc)
 - [Day-5 | DevSecOps Mega Project Series | Deploy To Dev K8 Cluster](https://www.youtube.com/watch?v=pxrTMErdoP0)
 - [Day-4 | DevSecOps Mega Project Series | MultiStage Dockerfile](https://www.youtube.com/watch?v=pap_frX3ivQ)
-- [Day-3 | DevSecOps Mega Project Series | 3-Tier Project Jenkins CI Pipeline](https://www.youtube.com/watch?v=ibo7DwsiO6o)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
