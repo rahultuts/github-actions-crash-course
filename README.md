@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [DevOps Projects For Resume &amp; How To Explain It | DevOps Shack](https://www.youtube.com/watch?v=J9klX0wr8nA)
 - [GitHub Actions Production CICD Pipeline Project | DevOps Shack](https://www.youtube.com/watch?v=kuUHV0I0YwM)
 - [Batch-11 | Zero To Hero | DevSecOps &amp; Cloud DevOps](https://www.youtube.com/watch?v=xfTuh1XVEJk)
 - [Day-8 | DevSecOps Mega Project Series | Jenkins Slack Notifications](https://www.youtube.com/watch?v=FeB8oObCgEE)
 - [Day-7 | DevSecOps Mega Project Series | Monitoring 3-Tier Project](https://www.youtube.com/watch?v=kLSI79_wfe8)
-- [Day-6 | DevSecOps Mega Project Series | 3-Tier Project Prod Deployment](https://www.youtube.com/watch?v=gfmbdqYa6Hc)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
