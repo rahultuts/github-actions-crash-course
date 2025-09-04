@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [FREE | Zero To Hero | Practical DevSecOps BootCamp in HINDI](https://www.youtube.com/watch?v=a2mTHaN9akE)
 - [Roles &amp; Responsibilities Of DevOps Engineer |  Day To Day Tasks | DevOps Shack](https://www.youtube.com/watch?v=bB9cw2VxfcY)
 - [GitOps With ArgoCD And GitHub Actions | DevOps Shack](https://www.youtube.com/watch?v=iGJxNtjj_VE)
 - [GitHub Actions Production CICD Pipeline Project | DevOps Shack](https://www.youtube.com/watch?v=kuUHV0I0YwM)
 - [Best Way To Apply For DevOps Jobs | DevOps Shack](https://www.youtube.com/watch?v=2z7kN-AgU9w)
-- [DevOps Projects For Resume &amp; How To Explain It | DevOps Shack](https://www.youtube.com/watch?v=J9klX0wr8nA)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
