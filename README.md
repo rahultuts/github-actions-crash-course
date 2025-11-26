@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Apache Kafka in DevOps With Demo | DevOps | DevOps Shack](https://www.youtube.com/watch?v=uRnUEe4Byf8)
 - [Gitlab CICD 3-Tier Mega Project | Live MasterClass](https://www.youtube.com/watch?v=lYE7iLN4jKM)
 - [Roles &amp; Responsibilities Of DevOps Engineer |  Day To Day Tasks | DevOps Shack](https://www.youtube.com/watch?v=bB9cw2VxfcY)
 - [GitOps With ArgoCD And GitHub Actions | DevOps Shack](https://www.youtube.com/watch?v=iGJxNtjj_VE)
 - [GitHub Actions Production CICD Pipeline Project | DevOps Shack](https://www.youtube.com/watch?v=kuUHV0I0YwM)
-- [Best Way To Apply For DevOps Jobs | DevOps Shack](https://www.youtube.com/watch?v=2z7kN-AgU9w)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
