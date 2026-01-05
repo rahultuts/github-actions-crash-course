@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Gateway API In Kubernetes With Project | DevOps Shack](https://www.youtube.com/watch?v=h-AabKgZw1s)
 - [DNS Servers Ultra Deep Dive From Scratch With 2 Live Projects | DevOps Shack](https://www.youtube.com/watch?v=3RVB_WIhnfU)
 - [SSL/TLS Certificates Ultra Deep Dive With Demo Project | DevOps Shack](https://www.youtube.com/watch?v=C71gNS_6JOs)
 - [Kubernetes Pods Deep Dive | Kubernetes | DevOps Shack](https://www.youtube.com/watch?v=rvpI31sK8a0)
 - [Apache Kafka in DevOps With Demo | DevOps | DevOps Shack](https://www.youtube.com/watch?v=uRnUEe4Byf8)
-- [Gitlab CICD 3-Tier Mega Project | Live MasterClass](https://www.youtube.com/watch?v=lYE7iLN4jKM)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
