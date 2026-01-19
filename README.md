@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [OWASP ZAP Deep Dive With DevOps Project | DevOps Shack](https://www.youtube.com/watch?v=DjUPVrFHd1I)
 - [Advanced DevSecOps &amp; Cloud DevOps RoadMap 2026 | DevOps Shack](https://www.youtube.com/watch?v=_3P69_VDk9A)
 - [Gateway API Full Tutorial With Project | DevOps Shack](https://www.youtube.com/watch?v=h-AabKgZw1s)
 - [DNS Servers Ultra Deep Dive From Scratch With 2 Live Projects | DevOps Shack](https://www.youtube.com/watch?v=3RVB_WIhnfU)
 - [SSL/TLS Certificates Ultra Deep Dive With Demo Project | DevOps Shack](https://www.youtube.com/watch?v=C71gNS_6JOs)
-- [Kubernetes Pods Deep Dive | Kubernetes | DevOps Shack](https://www.youtube.com/watch?v=rvpI31sK8a0)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
