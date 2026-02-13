@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [How He Switched From Infosys to Google | Podcast](https://www.youtube.com/watch?v=jm3GmqXeHEs)
+- [OWASP Top 10 | DevOps Security | DevOps Shack](https://www.youtube.com/watch?v=cLOXIodlw74)
 - [Corporate DevSecOps Project Workflow | End-to-End Explained Live](https://www.youtube.com/watch?v=t5sC3POxQgc)
 - [LIVE Resume Review &amp; Career Guidance &lpar;Real Resumes, Real Feedback&rpar;](https://www.youtube.com/watch?v=6IN8Li_wGxI)
 - [Get FREE Linux/DevOps Servers For Hands-On Practice | DevOps Shack](https://www.youtube.com/watch?v=mu-dR8U_AM0)
-- [OWASP ZAP Deep Dive With DevOps Project | DevOps Shack](https://www.youtube.com/watch?v=DjUPVrFHd1I)
-- [Advanced DevSecOps &amp; Cloud DevOps RoadMap 2026 | DevOps Shack](https://www.youtube.com/watch?v=_3P69_VDk9A)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
