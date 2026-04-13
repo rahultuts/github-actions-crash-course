@@ -6,8 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [How To Upgrade Kubernetes Cluster | EKS Upgrade | DevOps Shack](https://www.youtube.com/watch?v=1l2agEQ1Ngo)
 - [SSH Key Recovery in Production | 3 Real AWS EC2 Scenarios From Scratch](https://www.youtube.com/watch?v=nxc3K_fBuIE)
 - [How He Switched From Infosys to Google | Podcast](https://www.youtube.com/watch?v=jm3GmqXeHEs)
-- [OWASP Top 10 | DevOps Security | DevOps Shack](https://www.youtube.com/watch?v=cLOXIodlw74)
 - [Corporate DevSecOps Project Workflow | End-to-End Explained Live](https://www.youtube.com/watch?v=t5sC3POxQgc)
+- [LIVE Resume Review &amp; Career Guidance &lpar;Real Resumes, Real Feedback&rpar;](https://www.youtube.com/watch?v=6IN8Li_wGxI)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
