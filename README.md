@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Project &amp; Branching Explanation For Interviews | DevOps Shack](https://www.youtube.com/watch?v=m7rUQbiYqa4)
 - [The Production-Grade End-To-End DevSecOps Project | DevOps Shack](https://www.youtube.com/watch?v=W1ZWIz4oLXo)
 - [How To Upgrade Kubernetes Cluster | EKS Upgrade | DevOps Shack](https://www.youtube.com/watch?v=1l2agEQ1Ngo)
 - [SSH Key Recovery in Production | 3 Real AWS EC2 Scenarios From Scratch](https://www.youtube.com/watch?v=nxc3K_fBuIE)
 - [How He Switched From Infosys to Google | Podcast](https://www.youtube.com/watch?v=jm3GmqXeHEs)
-- [Corporate DevSecOps Project Workflow | End-to-End Explained Live](https://www.youtube.com/watch?v=t5sC3POxQgc)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
