@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Day-5 | Code review &amp; Collaboration In GitLab | 30 Days Of GitLab DevOps](https://www.youtube.com/watch?v=LPVt_-Pu2wU)
 - [Day-4 | Merge in Git &amp; Merge Conflicts | 30 Days Of GitLab DevOps](https://www.youtube.com/watch?v=bdMEa6w794s)
 - [Day-3 | Branching Strategy &amp; CI Rules | 30 Days Of GitLab DevOps](https://www.youtube.com/watch?v=Tyq4mzqsqw4)
 - [Day-2 | Groups, Projects &amp; RBAC | 30 Days Of GitLab DevOps](https://www.youtube.com/watch?v=JZ9TfwfPr4Y)
 - [Day-1 | Architecture &amp; Core Features | 30 Days Of GitLab DevOps](https://www.youtube.com/watch?v=6lvMhM5alRs)
-- [Day-0 | Course Overview &amp; Syllabus | 30 Days Of GitLab DevOps](https://www.youtube.com/watch?v=MX3fH1E2HFo)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
