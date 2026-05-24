@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Day-11 | Artifacts &amp; Caches | 30 Days Of GitLab DevOps](https://www.youtube.com/watch?v=SOieay6ZKEw)
+- [Day-10 | Variables &amp; Secrets | 30 Days Of GitLab DevOps](https://www.youtube.com/watch?v=MydlGtO1epI)
 - [Day-9 | Gitlab Runner Setup | 30 Days Of GitLab DevOps](https://www.youtube.com/watch?v=lzqMeSQHK7I)
 - [Day-8 | Introduction To Gitlab CICD | 30 Days Of GitLab DevOps](https://www.youtube.com/watch?v=3DrhYZ_B1yw)
 - [Day-7 | Wikis &amp; Documentation | 30 Days Of GitLab DevOps](https://www.youtube.com/watch?v=mhMCrlIi16E)
-- [Day-6 | Issues &amp; Agile Planning | 30 Days Of GitLab DevOps](https://www.youtube.com/watch?v=GWd7A2PIdA4)
-- [Day-5 | Code review &amp; Collaboration In GitLab | 30 Days Of GitLab DevOps](https://www.youtube.com/watch?v=LPVt_-Pu2wU)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
