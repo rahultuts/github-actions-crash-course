@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Docker Most Asked Interview Questions Explained | DevOps Shack](https://www.youtube.com/watch?v=H4wwfdzkZeU)
 - [Day-16 | Kubernetes Integration in Gitlab CICD | 30 Days Of GitLab DevOps](https://www.youtube.com/watch?v=r9wtrchobTs)
 - [FREE MLOps LIVE Workshop For Beginners | Complete Hands-On Project](https://www.youtube.com/watch?v=YX6Fqh3Yt90)
 - [Day-15 | Container Registry in Gitlab CICD | 30 Days Of GitLab DevOps](https://www.youtube.com/watch?v=o6vxtem6uks)
 - [Day-14 | Docker in Gitlab CICD | 30 Days Of GitLab DevOps](https://www.youtube.com/watch?v=JNC7dcyenr8)
-- [The Ultimate Production Grade DevOps + Cloud + AI Course | Batch-14 | DevOps Shack](https://www.youtube.com/watch?v=gT1bIAM20AI)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
