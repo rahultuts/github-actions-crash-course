@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Day-23 | OpenTelemetry with GitLab CI/CD | Traces &amp; Metrics &lpar;Hands-on Project&rpar;](https://www.youtube.com/watch?v=MHy47rQgYUs)
 - [Day-22 | Hashicorp Vault in GitLab  | 30 Days Of GitLab DevOps](https://www.youtube.com/watch?v=VkeViINjjXg)
 - [Multi-Agent AI System Project &lpar; 5 AI Agents in One Project&rpar;](https://www.youtube.com/watch?v=98UnaT2pki4)
 - [Day-21 | DevSecOps in GitLab  | 30 Days Of GitLab DevOps](https://www.youtube.com/watch?v=EcaaaLua9bc)
 - [Day-20 | Pipeline Optimization  | 30 Days Of GitLab DevOps](https://www.youtube.com/watch?v=kRat3-JSwVU)
-- [Cluster Autoscaler in EKS | Automatically Scale Worker Nodes &lpar;Hands-On Demo&rpar;](https://www.youtube.com/watch?v=HU0a8Xd2870)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
