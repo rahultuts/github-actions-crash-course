@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [FREE 2-Day Live Workshop | Build DevOps Projects That Get Interviews | Day 1](https://www.youtube.com/watch?v=vwGIZ20WGys)
 - [Day-26 | GitLab Pipeline Optimization | 30 Days Of GitLab DevOps](https://www.youtube.com/watch?v=Dv4OhGIMusQ)
 - [Day 25 | Install GitLab On Your Own server | Self-Hosted GitLab Server](https://www.youtube.com/watch?v=b_x0YmFqBCI)
 - [Day 24 | GitLab CI/CD Logging &amp; Slack Alerts | Real-Time Pipeline Notifications](https://www.youtube.com/watch?v=R31SQU-6uTw)
 - [Day-23 | OpenTelemetry with GitLab CI/CD | Traces &amp; Metrics &lpar;Hands-on Project&rpar;](https://www.youtube.com/watch?v=MHy47rQgYUs)
-- [Day-22 | Hashicorp Vault in GitLab  | 30 Days Of GitLab DevOps](https://www.youtube.com/watch?v=VkeViINjjXg)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
