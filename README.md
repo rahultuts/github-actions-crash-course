@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Production Git Branching Strategy | Real-World Practical Demo](https://www.youtube.com/watch?v=tOb-9HHqrIU)
+- [Terraform Drift Explained | 3 Real-World Hands-On Examples](https://www.youtube.com/watch?v=W_8wYhF6DnQ)
 - [AWS Disaster Recovery Tutorial | 3 Real-World Hands-On Scenarios](https://www.youtube.com/watch?v=V3lRPrSzAsk)
 - [Day-to-Day Activities of a DevOps Engineer | Real-Time Roles &amp; Responsibilities](https://www.youtube.com/watch?v=NgEf1aBSJ7U)
 - [Add These Projects In Your DevOps Resume For Transition](https://www.youtube.com/watch?v=3tApbWxEp48)
-- [FREE 2-Day Live Workshop | Build DevOps Projects That Get Interviews | Day 2](https://www.youtube.com/watch?v=pfD1NeeEazI)
-- [How Professional DevOps Engineers Actually Set Up GitHub Repositories](https://www.youtube.com/watch?v=fz2m8RapOAA)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
