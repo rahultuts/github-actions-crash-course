@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Gradle Full Course 2026 | Complete Tutorial with Hands-On Project](https://www.youtube.com/watch?v=OHkqyBvBvIQ)
 - [Real-World Pipeline Migration | Jenkins to GitHub Actions Step by Step](https://www.youtube.com/watch?v=mzpMzbloZWQ)
 - [Production Git Branching Strategy | Real-World Practical Demo](https://www.youtube.com/watch?v=tOb-9HHqrIU)
 - [Terraform Drift Explained | 3 Real-World Hands-On Examples](https://www.youtube.com/watch?v=W_8wYhF6DnQ)
 - [AWS Disaster Recovery Tutorial | 3 Real-World Hands-On Scenarios](https://www.youtube.com/watch?v=V3lRPrSzAsk)
-- [Day-to-Day Activities of a DevOps Engineer | Real-Time Roles &amp; Responsibilities](https://www.youtube.com/watch?v=NgEf1aBSJ7U)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
