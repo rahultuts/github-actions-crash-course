@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Build a Real DevOps AI Voice Assistant | Talk to Your Infrastructure](https://www.youtube.com/watch?v=-HPs8iHdCVA)
 - [Expose Your Localhost to the Internet in Minutes | No Deployment Needed](https://www.youtube.com/watch?v=8LRIVHGDrCY)
 - [7 Microservices Hands-On DevOps Project | Built with 7 Programming Languages](https://www.youtube.com/watch?v=seP0wyCwzEI)
 - [Gradle Full Course 2026 | Complete Tutorial with Hands-On Project](https://www.youtube.com/watch?v=OHkqyBvBvIQ)
 - [Real-World Pipeline Migration | Jenkins to GitHub Actions Step by Step](https://www.youtube.com/watch?v=mzpMzbloZWQ)
-- [Production Git Branching Strategy | Real-World Practical Demo](https://www.youtube.com/watch?v=tOb-9HHqrIU)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
