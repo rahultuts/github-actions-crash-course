@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [How Docker Turns Your Code Into a Running Container 🐳 #devops #docker #shorts](https://www.youtube.com/shorts/Iy-zIUWgIQQ)
+- [How Your Code Reaches Production in 59 Seconds 🚀](https://www.youtube.com/shorts/QO09qr7-zxY)
 - [Proxy in DevOps Deep Dive | Forward Proxy, Reverse Proxy + Hands-On Project](https://www.youtube.com/watch?v=JHN99q0y2Rk)
 - [Build a Real DevOps AI Voice Assistant | Talk to Your Infrastructure](https://www.youtube.com/watch?v=-HPs8iHdCVA)
 - [Expose Your Localhost to the Internet in Minutes | No Deployment Needed](https://www.youtube.com/watch?v=8LRIVHGDrCY)
-- [7 Microservices Hands-On DevOps Project | Built with 7 Programming Languages](https://www.youtube.com/watch?v=seP0wyCwzEI)
-- [Real-World Pipeline Migration | Jenkins to GitHub Actions Step by Step](https://www.youtube.com/watch?v=mzpMzbloZWQ)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
