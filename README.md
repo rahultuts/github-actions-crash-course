@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [How a Request Reaches Your Pod in Kubernetes 🌐 #shorts  #cicd #devops](https://www.youtube.com/shorts/DWfgen3t05M)
+- [CI/CD Pipeline Explained End to End in 59 Seconds 🚀 #shorts  #cicd #devops](https://www.youtube.com/shorts/qx05mrsJlqY)
 - [What Really Happens When You Run kubectl apply? ⚙️ #shorts   #cicd](https://www.youtube.com/shorts/ck6w2b5yxr4)
 - [Kubernetes Architecture Explained in 59 Seconds ☸️ #shorts #devops #k8s](https://www.youtube.com/shorts/iKPS6jiPSKI)
 - [How Docker Turns Your Code Into a Running Container 🐳 #devops #docker #shorts](https://www.youtube.com/shorts/Iy-zIUWgIQQ)
-- [How Your Code Reaches Production in 59 Seconds 🚀](https://www.youtube.com/shorts/QO09qr7-zxY)
-- [Proxy in DevOps Deep Dive | Forward Proxy, Reverse Proxy + Hands-On Project](https://www.youtube.com/watch?v=JHN99q0y2Rk)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
