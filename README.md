@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [What Happens When You Power On a Linux Server? 🐧 #shorts](https://www.youtube.com/shorts/dhF-H6VASNI)
+- [How Monitoring Works in Production — Prometheus &amp; Grafana 📈 #shorts](https://www.youtube.com/shorts/eT1Dv9T5lEE)
 - [How a Request Reaches Your Pod in Kubernetes 🌐 #shorts  #cicd #devops](https://www.youtube.com/shorts/DWfgen3t05M)
 - [CI/CD Pipeline Explained End to End in 59 Seconds 🚀 #shorts  #cicd #devops](https://www.youtube.com/shorts/qx05mrsJlqY)
 - [What Really Happens When You Run kubectl apply? ⚙️ #shorts   #cicd](https://www.youtube.com/shorts/ck6w2b5yxr4)
-- [Kubernetes Architecture Explained in 59 Seconds ☸️ #shorts #devops #k8s](https://www.youtube.com/shorts/iKPS6jiPSKI)
-- [How Docker Turns Your Code Into a Running Container 🐳 #devops #docker #shorts](https://www.youtube.com/shorts/Iy-zIUWgIQQ)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
