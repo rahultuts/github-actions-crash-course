@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [40 LPA DevOps Jobs? This Is the Bootcamp | Batch 16 Starts 28 Nov #shorts](https://www.youtube.com/shorts/GUukfLE0xGY)
 - [3 Things That Make Recruiters Message You First &lpar;DevOps&rpar;](https://www.youtube.com/shorts/mjVNuWHOT0o)
 - [Complete DevOps Architecture End to End in 59 Seconds 🔁 #shorts](https://www.youtube.com/shorts/JrpKcyYETjQ)
 - [Terraform Workflow Explained: init, plan, apply 🏗️ #shorts](https://www.youtube.com/shorts/j_KYAR-3Xms)
 - [What Happens When You Power On a Linux Server? 🐧 #shorts](https://www.youtube.com/shorts/dhF-H6VASNI)
-- [How Monitoring Works in Production — Prometheus &amp; Grafana 📈 #shorts](https://www.youtube.com/shorts/eT1Dv9T5lEE)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
