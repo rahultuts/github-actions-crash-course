@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Fix ImagePullBackOff? | DevOps Interview Q3 #shorts](https://www.youtube.com/shorts/MDHD-Ikq92g)
+- [Pod stuck in Pending? | DevOps Interview Q2 #shorts](https://www.youtube.com/shorts/87_IwmoylFY)
 - [Pod in CrashLoopBackOff? | DevOps Interview Q1 #shorts](https://www.youtube.com/shorts/7DZ3EqSAfdE)
 - [40 LPA DevOps Jobs? This Is the Bootcamp | Batch 16 Starts 28 Nov #shorts](https://www.youtube.com/shorts/GUukfLE0xGY)
 - [3 Things That Make Recruiters Message You First &lpar;DevOps&rpar;](https://www.youtube.com/shorts/mjVNuWHOT0o)
-- [Complete DevOps Architecture End to End in 59 Seconds 🔁 #shorts](https://www.youtube.com/shorts/JrpKcyYETjQ)
-- [Terraform Workflow Explained: init, plan, apply 🏗️ #shorts](https://www.youtube.com/shorts/j_KYAR-3Xms)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
