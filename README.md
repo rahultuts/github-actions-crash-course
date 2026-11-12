@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Site shows 502 Bad Gateway? | DevOps Interview Q7 #shorts](https://www.youtube.com/shorts/6cs2vXi9mOU)
+- [Server at 100% CPU? | DevOps Interview Q6 #shorts](https://www.youtube.com/shorts/4M_jsMw-OGA)
+- [OpenShift End-to-End FREE Course | 3 Hands-On Projects + Free Cluster Setup 🚀](https://www.youtube.com/watch?v=fED1fD361N8)
 - [OpenShift End-to-End LIVE | 3 Hands-On Projects From Scratch &lpar;Free Cluster&rpar; | DevOps Shack](https://www.youtube.com/watch?v=oQD1zXHLeEo)
 - [Server disk 100% full? | DevOps Interview Q5 #shorts](https://www.youtube.com/shorts/3j1pUor5JYY)
-- [Bad release? Roll back? | DevOps Interview Q4 #shorts](https://www.youtube.com/shorts/Bg3RRV0Jqxw)
-- [Fix ImagePullBackOff? | DevOps Interview Q3 #shorts](https://www.youtube.com/shorts/MDHD-Ikq92g)
-- [Pod stuck in Pending? | DevOps Interview Q2 #shorts](https://www.youtube.com/shorts/87_IwmoylFY)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
