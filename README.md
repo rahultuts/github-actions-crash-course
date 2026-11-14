@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Terraform state is locked? | DevOps Interview Q11 #shorts](https://www.youtube.com/shorts/RUOoiKrnkRE)
+- [AWS key pushed to GitHub? | DevOps Interview Q10 #shorts](https://www.youtube.com/shorts/Q5kgiGfEEco)
 - [Container exits instantly? | DevOps Interview Q9 #shorts](https://www.youtube.com/shorts/RfwPcDuYV8Y)
 - [Docker image is 2 GB? | DevOps Interview Q8 #shorts](https://www.youtube.com/shorts/TiBXSQejdvQ)
 - [Site shows 502 Bad Gateway? | DevOps Interview Q7 #shorts](https://www.youtube.com/shorts/6cs2vXi9mOU)
-- [Server at 100% CPU? | DevOps Interview Q6 #shorts](https://www.youtube.com/shorts/4M_jsMw-OGA)
-- [OpenShift End-to-End FREE Course | 3 Hands-On Projects + Free Cluster Setup 🚀](https://www.youtube.com/watch?v=fED1fD361N8)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
