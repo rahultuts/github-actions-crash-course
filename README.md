@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Node is NotReady? | DevOps Interview Q15 #shorts](https://www.youtube.com/shorts/TmSfDhL3wME)
+- [Zero downtime: which strategy? | DevOps Interview Q14 #shorts](https://www.youtube.com/shorts/bSZe5c7xy34)
+- [GitOps With ArgoCD &amp; GitHub Actions | App Of Apps | DevOps Shack](https://www.youtube.com/watch?v=q5W5irUrJUo)
 - [CI pipeline takes 45 minutes? | DevOps Interview Q13 #shorts](https://www.youtube.com/shorts/LQS_gxHH91o)
 - [OpenShift Free Practical Course| 3 Hands-On Projects From Scratch &lpar;Free Cluster&rpar; | DevOps Shack](https://www.youtube.com/watch?v=oQD1zXHLeEo)
-- [Someone changed prod by hand? | DevOps Interview Q12 #shorts](https://www.youtube.com/shorts/0tZcdebZXzE)
-- [Terraform state is locked? | DevOps Interview Q11 #shorts](https://www.youtube.com/shorts/RUOoiKrnkRE)
-- [AWS key pushed to GitHub? | DevOps Interview Q10 #shorts](https://www.youtube.com/shorts/Q5kgiGfEEco)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
