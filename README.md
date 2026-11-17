@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Undo a commit already pushed? | DevOps Interview Q18 #shorts](https://www.youtube.com/shorts/S-x2Fo_6ztQ)
+- [DNS fails inside the pod? | DevOps Interview Q17 #shorts](https://www.youtube.com/shorts/ZS6IcY_hJ1s)
+- [Service gives no response? | DevOps Interview Q16 #shorts](https://www.youtube.com/shorts/Vs4nnHk7q38)
 - [Node is NotReady? | DevOps Interview Q15 #shorts](https://www.youtube.com/shorts/TmSfDhL3wME)
 - [Zero downtime: which strategy? | DevOps Interview Q14 #shorts](https://www.youtube.com/shorts/bSZe5c7xy34)
-- [GitOps With ArgoCD &amp; GitHub Actions | App Of Apps | DevOps Shack](https://www.youtube.com/watch?v=q5W5irUrJUo)
-- [CI pipeline takes 45 minutes? | DevOps Interview Q13 #shorts](https://www.youtube.com/shorts/LQS_gxHH91o)
-- [OpenShift Free Practical Course| 3 Hands-On Projects From Scratch &lpar;Free Cluster&rpar; | DevOps Shack](https://www.youtube.com/watch?v=oQD1zXHLeEo)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
