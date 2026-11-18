@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [HPA is not scaling? | DevOps Interview Q19 #shorts](https://www.youtube.com/shorts/aB4H0NVvZ9A)
+- [AWS Lambda Zero to Hero in 1 Hour | Build &amp; Deploy 2 Real-World Projects](https://www.youtube.com/watch?v=Ko2ScAEeSeY)
 - [Undo a commit already pushed? | DevOps Interview Q18 #shorts](https://www.youtube.com/shorts/S-x2Fo_6ztQ)
 - [DNS fails inside the pod? | DevOps Interview Q17 #shorts](https://www.youtube.com/shorts/ZS6IcY_hJ1s)
 - [Service gives no response? | DevOps Interview Q16 #shorts](https://www.youtube.com/shorts/Vs4nnHk7q38)
-- [Node is NotReady? | DevOps Interview Q15 #shorts](https://www.youtube.com/shorts/TmSfDhL3wME)
-- [Zero downtime: which strategy? | DevOps Interview Q14 #shorts](https://www.youtube.com/shorts/bSZe5c7xy34)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
