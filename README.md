@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [StatefulSet vs Deployment? | DevOps Interview Q25 #shorts](https://www.youtube.com/shorts/duSiLuqq_BE)
+- [50 Microservices End-to-End Production DevOps Project | GitHub Actions + Helm + AWS EKS](https://www.youtube.com/watch?v=97dBSJuhvfc)
+- [Liveness vs Readiness probe? | DevOps Interview Q24 #shorts](https://www.youtube.com/shorts/8VR5kJw0aww)
 - [TLS certificate expired in prod? | DevOps Interview Q23 #shorts](https://www.youtube.com/shorts/wr7Kh2q4sDk)
 - [Ingress returns 404 Not Found? | DevOps Interview Q22 #shorts](https://www.youtube.com/shorts/A02pUqEqWAY)
-- [Kubernetes Secrets: are they secure? | DevOps Interview Q21 #shorts](https://www.youtube.com/shorts/CdsrKqP_3s4)
-- [App is suddenly slow? | DevOps Interview Q20 #shorts](https://www.youtube.com/shorts/88eqxglBsvc)
-- [HPA is not scaling? | DevOps Interview Q19 #shorts](https://www.youtube.com/shorts/aB4H0NVvZ9A)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
