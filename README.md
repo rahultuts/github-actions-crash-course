@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [What happens on kubectl apply? | DevOps Interview Q27 #shorts](https://www.youtube.com/shorts/iWAgCRARDsk)
+- [How a request reaches your pod? | DevOps Interview Q26 #shorts](https://www.youtube.com/shorts/p0dDSCzQJtM)
 - [StatefulSet vs Deployment? | DevOps Interview Q25 #shorts](https://www.youtube.com/shorts/duSiLuqq_BE)
 - [50 Microservices End-to-End Production DevOps Project | GitHub Actions + Helm + AWS EKS](https://www.youtube.com/watch?v=97dBSJuhvfc)
 - [Liveness vs Readiness probe? | DevOps Interview Q24 #shorts](https://www.youtube.com/shorts/8VR5kJw0aww)
-- [TLS certificate expired in prod? | DevOps Interview Q23 #shorts](https://www.youtube.com/shorts/wr7Kh2q4sDk)
-- [Ingress returns 404 Not Found? | DevOps Interview Q22 #shorts](https://www.youtube.com/shorts/A02pUqEqWAY)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
