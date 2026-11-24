@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Private subnet has no internet? | DevOps Interview Q32 #shorts](https://www.youtube.com/shorts/1Cx3qldBVak)
+- [AWS bill tripled overnight? | DevOps Interview Q31 #shorts](https://www.youtube.com/shorts/tkMxlpqAnGY)
 - [Can&#39;t SSH into your EC2? | DevOps Interview Q30 #shorts](https://www.youtube.com/shorts/tvhYCBy_DYY)
 - [S3 bucket is public! | DevOps Interview Q29 #shorts](https://www.youtube.com/shorts/CC0J7a2CtBM)
 - [Works locally, fails in CI? | DevOps Interview Q28 #shorts](https://www.youtube.com/shorts/cu6t7NtzZk8)
-- [What happens on kubectl apply? | DevOps Interview Q27 #shorts](https://www.youtube.com/shorts/iWAgCRARDsk)
-- [How a request reaches your pod? | DevOps Interview Q26 #shorts](https://www.youtube.com/shorts/p0dDSCzQJtM)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
