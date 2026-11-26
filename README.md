@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Which Git branching strategy? | DevOps Interview Q36 #shorts](https://www.youtube.com/shorts/AN-za7XsaWM)
+- [DB migration without downtime? | DevOps Interview Q35 #shorts](https://www.youtube.com/shorts/A9Sg0DQHcns)
 - [Logs vanish when pods restart? | DevOps Interview Q34 #shorts](https://www.youtube.com/shorts/7w-1Sm2RSzY)
 - [200 alerts a day, all ignored? | DevOps Interview Q33 #shorts](https://www.youtube.com/shorts/-uo0DWLhLBs)
 - [Private subnet has no internet? | DevOps Interview Q32 #shorts](https://www.youtube.com/shorts/1Cx3qldBVak)
-- [AWS bill tripled overnight? | DevOps Interview Q31 #shorts](https://www.youtube.com/shorts/tkMxlpqAnGY)
-- [Can&#39;t SSH into your EC2? | DevOps Interview Q30 #shorts](https://www.youtube.com/shorts/tvhYCBy_DYY)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
