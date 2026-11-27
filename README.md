@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Helm release stuck in pending-upgrade? | DevOps Interview Q38 #shorts](https://www.youtube.com/shorts/c-pYa7GqV3Y)
+- [ArgoCD app stuck OutOfSync? | DevOps Interview Q37 #shorts](https://www.youtube.com/shorts/l63mqWU6mtQ)
+- [Azure DevOps End To End Corporate Project | Multi Environment](https://www.youtube.com/watch?v=gjg7AjTyHx0)
 - [Which Git branching strategy? | DevOps Interview Q36 #shorts](https://www.youtube.com/shorts/AN-za7XsaWM)
 - [DB migration without downtime? | DevOps Interview Q35 #shorts](https://www.youtube.com/shorts/A9Sg0DQHcns)
-- [Logs vanish when pods restart? | DevOps Interview Q34 #shorts](https://www.youtube.com/shorts/7w-1Sm2RSzY)
-- [200 alerts a day, all ignored? | DevOps Interview Q33 #shorts](https://www.youtube.com/shorts/-uo0DWLhLBs)
-- [Private subnet has no internet? | DevOps Interview Q32 #shorts](https://www.youtube.com/shorts/1Cx3qldBVak)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
